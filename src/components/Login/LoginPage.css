@@ -1,0 +1,21 @@
+.center{
+    padding:90px;
+    
+}
+h5,h3{
+    text-align:center;
+    padding:5px;
+}
+.panel{
+    border:1px yellow solid;
+    height:530px;
+    width:650px;
+    box-shadow: 5px 10px #888888;
+    
+}
+.panel-body{
+    padding:30px;
+}
+.panel-heading{
+    background-color:#faffa3;
+}

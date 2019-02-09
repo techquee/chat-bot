@@ -1,0 +1,20 @@
+.Rectangle {
+    width: 670px;
+    height: 375px;
+    color:white;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px 4px rgba(0, 0, 0, 0.08);
+    background-color: #3a4d6b;
+  }
+
+  .Rectangle-3 {
+    width: 670px;
+    border-radius: 2px;
+  }
+ 
+  img{
+    height:400px;
+    width:300px;
+    margin-top: 40px;
+    float:right;
+}
