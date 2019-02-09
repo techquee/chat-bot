@@ -1,5 +1,6 @@
-This is a chat bot creator
-
+# This is a chat bot creator
+## Redux code with integrated coding panel used by visual studio code
+### npm start to run 
 
 ![Image](https://raw.githubusercontent.com/techquee/chat-bot/master/assests/image.png)
 
